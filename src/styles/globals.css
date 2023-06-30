@@ -3,25 +3,62 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+    --primary-color: #007dff;
+    --light-primary-color: #f0f8ff;
+    --secondary-color: #2c3e50;
+
+    --gradient-primary-color: linear-gradient(45deg, rgba(44,131,251,1) 0%, rgba(31,118,240,1) 100%);
+
+    --light-color: #fff;
+    --dark-color: #000;
+
+    --text-color: #2c3e50;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.primary-color {
+    color: var(--primary-color);
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.primary-border-color {
+    border-color: var(--primary-color);
+}
+
+.secondary-border-color {
+    border-color: var(--secondary-color);
+}
+
+.text-color {
+    color: var(--text-color)
+}
+
+.bg-light-primary {
+    background-color: var(--light-primary-color);
+}
+
+.bg-primary {
+    background-color: var(--primary-color);
+}
+
+.primary-hover:hover {
+    color: var(--primary-color);
+}
+
+.bg-primary-hover:hover {
+    background-color: var(--primary-color);
+}
+
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
+
+.bg-secondary-hover:hover {
+    background-color: var(--secondary-color);
+}
+
+.primary-border-hover:hover {
+    border-color: var(--primary-color);
+}
+
+.secondary-border-hover:hover {
+    border-color: var(--secondary-color);
 }

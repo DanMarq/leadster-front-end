@@ -1,8 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Landing Page Leadster
 
-## Getting Started
+## Características de Desenvolvimento
+Como solicitado a usabilidade do Nextjs, optei por usar a instalação usando o Page Router ao inves do App Router por ser uma versão mais estavel e também auxiliar bastante no uso de meta tags para melhorar o uso do SEO na página, justamente por ser uma Landing Page de vendas.
 
-First, run the development server:
+## Estilização
+A pagina poderia ser desenvolvida usando puro CSS feito a mão sem uso de frameworks CSS. Mas assim que vi a imagem do layout, me deu a ideia de utilizar o tailwind e assim mostrar o conhecimento em cima desse framerwok.
+
+## Dificuldades Encontradas
+
+Encontrei um pouco de dificuldade só na parte de paginação, precisei utilizar o React Pagination e ler a documentação para compreender mais. Mas conseguir fazer.
+
+## Notas de Desenvolvimento
+
+Houveram itens que decidir adicionar ao desenvolvimento dessa LP, segue abaxio: 
+
+1. Utilizando essa nova versão do next, ele disponibiliza uma rota para api que se encontra em /pages/api.
+Ali dentro, nao da pra chamar um arquivo json direto e para isso cria um pequeno codigo em js para funcionar como um server backend.
+
+Utilizei isso apenas pois fiz o json com os dados dos videos de forma local e segura, o que mudararia completamente a chamada se fosse um api via link.
+
+2. O player de video utilizei o ReactPlayer e utilizei um link do youtube do canal da Leadster. Por ser api externa do youtube coloquei uma config la dentro pra rodar via localhost:3000 mas pode ser retirada. Só coloquei pra subir um warning no console log. Acredito que o video original da exibção no site venha de forma interna.
+Mas vindo do youtube , ja fica certinho!
+
+## Faltou algo?
+
+Para fechar o desenvolvimento em dois dias e nao se prolongar muito, acabei deixando de lado a pesquisa dos videos por data de pulicação. Isso acabou ficando de foda.
+
+## Extras
+
+Poderia ter adcionando algumas animações utilizando o animate css, mas optei por deixar mais fiel e estatico. Unica coisa que adcionei foi um toogle para poder alterar o tema de light para dark.
+
+## Como rodar na sua máquina
+
+Baixe os arquivos e instale as dependecias
+
+```bash
+npm install
+```
+
+Em seguida execute a visualização da página
 
 ```bash
 npm run dev
@@ -12,27 +48,3 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

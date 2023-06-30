@@ -1,0 +1,143 @@
+[
+    {
+      "id":1,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha1.xlsx",
+        "documento": "caminho/para/documento1.docx",
+        "apresentacao": "caminho/para/apresentacao1.pptx"
+      },
+      "categoria": "Agências",
+      "data": "2023-06-01"
+    },
+    {   
+      "id":2,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Pronto para triplicar sua Geração de Leads?",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha2.xlsx",
+        "documento": "caminho/para/documento2.docx",
+        "apresentacao": "caminho/para/apresentacao2.pptx"
+      },
+      "categoria": "Chatbot",
+      "data": "2023-06-05"
+    },
+    {
+      "id":3,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Distribua os Leads de forma inteligente e eficaz.",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha3.xlsx",
+        "documento": "caminho/para/documento3.docx",
+        "apresentacao": "caminho/para/apresentacao3.pptx"
+      },
+      "categoria": "Marketing Digital",
+      "data": "2023-06-10"
+    },
+    {
+      "id":4,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Qualifique seus leads 24 horas por dia e 7 dias da semana",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha4.xlsx",
+        "documento": "caminho/para/documento4.docx",
+        "apresentacao": "caminho/para/apresentacao4.pptx"
+      },
+      "categoria": "Geração de Leads",
+      "data": "2023-06-15"
+    },
+    {
+      "id":5,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Gere 3x Mais Leads pelo seu Site com nossa ferramenta",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Descrição do vídeo 5",
+      "downloads": {
+        "planilha": "caminho/para/planilha5.xlsx",
+        "documento": "caminho/para/documento5.docx",
+        "apresentacao": "caminho/para/apresentacao5.pptx"
+      },
+      "categoria": "Mídia Paga",
+      "data": "2023-06-20"
+    },
+    {
+      "id":6,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha1.xlsx",
+        "documento": "caminho/para/documento1.docx",
+        "apresentacao": "caminho/para/apresentacao1.pptx"
+      },
+      "categoria": "Agências",
+      "data": "2023-06-01"
+    },
+    {   
+      "id":7,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Pronto para triplicar sua Geração de Leads?",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha2.xlsx",
+        "documento": "caminho/para/documento2.docx",
+        "apresentacao": "caminho/para/apresentacao2.pptx"
+      },
+      "categoria": "Chatbot",
+      "data": "2023-06-05"
+    },
+    {
+      "id":8,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Distribua os Leads de forma inteligente e eficaz.",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha3.xlsx",
+        "documento": "caminho/para/documento3.docx",
+        "apresentacao": "caminho/para/apresentacao3.pptx"
+      },
+      "categoria": "Marketing Digital",
+      "data": "2023-06-10"
+    },
+    {
+      "id":9,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Qualifique seus leads 24 horas por dia e 7 dias da semana",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Desc 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta dolor faucibus, mattis nisl et, ullamcorper nisi. Suspendisse vulputate enim vel est lobortis viverra.",
+      "downloads": {
+        "planilha": "caminho/para/planilha4.xlsx",
+        "documento": "caminho/para/documento4.docx",
+        "apresentacao": "caminho/para/apresentacao4.pptx"
+      },
+      "categoria": "Geração de Leads",
+      "data": "2023-06-15"
+    },
+    {
+      "id":10,
+      "thumbnail": "/assets/thumbnail.png",
+      "titulo": "Gere 3x Mais Leads pelo seu Site com nossa ferramenta",
+      "link_video": "https://youtu.be/45fD1JW_nT8",
+      "descricao": "Descrição do vídeo 5",
+      "downloads": {
+        "planilha": "caminho/para/planilha5.xlsx",
+        "documento": "caminho/para/documento5.docx",
+        "apresentacao": "caminho/para/apresentacao5.pptx"
+      },
+      "categoria": "Mídia Paga",
+      "data": "2023-06-20"
+    }
+  ]
+  
