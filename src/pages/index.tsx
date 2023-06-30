@@ -30,7 +30,7 @@ export default function Home() {
         <title>Webinars Exclusivos | Menos Conversinha, Mais Conversão</title>
         <meta name="description" content="Conheça as estrátegias que mudaram o jogo e como aplicá-las no seu negócio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon/favicon.ico" />
     </Head>
     <main className={ `${pjs.className } ${toogle? 'dark' : 'light'}`}>
       <Header theme={toogleTheme} />
