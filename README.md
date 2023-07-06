@@ -24,7 +24,7 @@ Mas vindo do youtube , ja fica certinho!
 
 ## Faltou algo?
 
-Para fechar o desenvolvimento em dois dias e nao se prolongar muito, acabei deixando de lado a pesquisa dos videos por data de pulicação. Isso acabou ficando de foda.
+Para fechar o desenvolvimento em dois dias e nao se prolongar muito, acabei deixando de lado a pesquisa dos videos por data de pulicação. Isso acabou ficando de fora.
 
 ## Extras
 
