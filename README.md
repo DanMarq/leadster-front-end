@@ -30,6 +30,9 @@ Para fechar o desenvolvimento em dois dias e nao se prolongar muito, acabei deix
 
 Poderia ter adcionando algumas animações utilizando o animate css, mas optei por deixar mais fiel e estatico. Unica coisa que adcionei foi um toogle para poder alterar o tema de light para dark.
 
+## Link para Visualisar
+<a href="https://leadster-front-end.vercel.app/" target="_blank">Clique aqui!</a>
+
 ## Como rodar na sua máquina
 
 Baixe os arquivos e instale as dependecias
